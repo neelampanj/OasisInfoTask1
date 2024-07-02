@@ -44,10 +44,10 @@ ul{
 .hidden{
     display: none !important;
 }
-.main-content{
+/* .main-content{
     padding-left:270px;
 
-}
+} */
 .padd-15{
     padding-left:15px;
     padding-right: 15px;
@@ -119,7 +119,7 @@ ul{
     box-shadow:0 0 20px rgba(48,46,77,0.15);
 }
 .aside{
-    width: 270px;
+    width: 200px;
     background:var(--bg-black-100);
     position: fixed;
     left: 0;
